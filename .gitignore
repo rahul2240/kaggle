@@ -2,3 +2,6 @@ data extraction/test.json
 data extraction/train.json
 linear regression/test.csv
 linear regression/train.csv
+bagofwords/labeledTrainData.tsv
+bagofwords/unlabeledTrainData.tsv
+bagofwords/testData.tsv
